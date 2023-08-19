@@ -1,6 +1,6 @@
 HI, I am Onah Anthony
-I am interested in the MERN Stack 
-- 🌱 I’m currently learning ReactJS and NodeJS
+ReactJS| NodeJS| JavaScript|
+- 🌱 I’m currently learning Python and Laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me via onan582@gmail.com
 
