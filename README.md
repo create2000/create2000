@@ -1,7 +1,4 @@
-HI, I am Onah Anthony
-ReactJS| NodeJS| JavaScript|
-- 🌱 I’m currently learning PHP 
-- 💞️ I’m looking to collaaborate 
+
 - 📫 You can reach me via onah582@gmail.com
 
 <!---
