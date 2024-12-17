@@ -21,7 +21,7 @@ jobs:
       - run: npm install  # Runs 'npm install' to install dependencies
 
       # Step 4: Run the script to update the README
-      - run: node index.js  # Executes the 'index.js' script
+      - run: node ./index.js  # Executes the 'index.js' script
 
       # Step 5: Commit the changes to README.md
       - name: Commit README.md
