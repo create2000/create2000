@@ -1,34 +1,33 @@
-name: Update README with Daily Joke
-
-on:
+name: generate-daily-joke
+on: 
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight
-  workflow_dispatch: # Allows manual trigger
+    - cron: "0 0 * * *"  # This will run every day at midnight (UTC)
+  workflow_dispatch:  # Allows you to trigger it manually from GitHub Actions UI
 
 jobs:
-  update-readme:
+  adds-contributor:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
+      # Step 1: Checkout the code
+      - uses: actions/checkout@v3  # Use the 'actions/checkout' action to pull the code
+      
+      # Step 2: Set up Node.js environment
+      - uses: actions/setup-node@v3
         with:
-          node-version: '14'
+          node-version: '16'  # Set the desired Node.js version
 
-      - name: Install dependencies
-        run: npm install
+      # Step 3: Install npm dependencies
+      - run: npm install  # Runs 'npm install' to install dependencies
 
-      - name: Run joke script
-      - run: node ./index.js
+      # Step 4: Run the script to update the README
+      - run: node index.js  # Executes the 'index.js' script
 
-
-      - name: Commit and push changes
+      # Step 5: Commit the changes to README.md
+      - name: Commit README.md
         run: |
-          git config --global user.name "create2000"
-          git config --global user.email "onah582@gmail.com"
-          git add README.md
-          git commit -m "Update README with a daily joke" || echo "No changes to commit"
-          git push
+          git config --global user.name 'Your Name'
+          git config --global user.email 'your-email@example.com'
+          git add README.md  # Stage the changes
+          git commit -m "Generated Daily Joke"  # Commit the changes
+          git push  # Push the changes to the repository
