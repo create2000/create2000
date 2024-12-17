@@ -21,7 +21,7 @@ jobs:
       - run: npm install
 
       # Step 4: Run the script to update the README
-      - run: node Daily/index.js  # Adjusted to reflect the correct folder name
+      - run: node ./Daily-Dev-Jokes/index.js  # Adjusted to reflect the correct folder name
 
       # Step 5: Commit and push changes
       - name: Commit README.md
