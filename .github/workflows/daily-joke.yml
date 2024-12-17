@@ -1,8 +1,8 @@
 name: generate-daily-joke
 on: 
   schedule:
-    - cron: "0 0 * * *"  # This will run every day at midnight (UTC)
-  workflow_dispatch:  # Allows you to trigger it manually from GitHub Actions UI
+    - cron: "0 0 * * *"  # Run every day at midnight (UTC)
+  workflow_dispatch:  # Trigger manually
 
 jobs:
   adds-contributor:
@@ -10,24 +10,24 @@ jobs:
 
     steps:
       # Step 1: Checkout the code
-      - uses: actions/checkout@v3  # Use the 'actions/checkout' action to pull the code
-      
-      # Step 2: Set up Node.js environment
+      - uses: actions/checkout@v3
+
+      # Step 2: Setup Node.js
       - uses: actions/setup-node@v3
         with:
-          node-version: '16'  # Set the desired Node.js version
+          node-version: '16'
 
       # Step 3: Install npm dependencies
-      - run: npm install  # Runs 'npm install' to install dependencies
+      - run: npm install
 
       # Step 4: Run the script to update the README
-      - run: node ./index.js  # Executes the 'index.js' script
+      - run: node Daily/index.js  # Adjusted to reflect the correct folder name
 
-      # Step 5: Commit the changes to README.md
+      # Step 5: Commit and push changes
       - name: Commit README.md
         run: |
           git config --global user.name 'Your Name'
           git config --global user.email 'your-email@example.com'
-          git add README.md  # Stage the changes
-          git commit -m "Generated Daily Joke"  # Commit the changes
-          git push  # Push the changes to the repository
+          git add README.md
+          git commit -m "Generated Daily Joke"
+          git push
