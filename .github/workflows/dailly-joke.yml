@@ -1,0 +1,33 @@
+name: Update README with Daily Joke
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '14'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run joke script
+        run: node index.js
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "create2000"
+          git config --global user.email "onah582@gmail.com"
+          git add README.md
+          git commit -m "Update README with a daily joke" || echo "No changes to commit"
+          git push
