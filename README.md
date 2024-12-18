@@ -1,7 +1,6 @@
+Software Developer | Open Source Contributor | onah582@gmail.com 
 
-# Daily Dev Joke
-
-- Fetches a joke from an API everyday and edits this README
+## Daily Dev Joke
 
 **Why are Assembly programmers always soaking wet?**
 *They work below C-level.*
