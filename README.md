@@ -1,7 +1,8 @@
-Software Developer | Open Source Contributor | onah582@gmail.com 
 
-## Daily Dev Joke
+# Daily Dev Joke
 
-**Why is 6 afraid of 7 in hexadecimal Canada?**
-*Because 7 8 9 A?*
+- Fetches a joke from an API everyday and edits this README
+
+**How did the programmer die in the shower?**
+*He read the shampoo bottle instructions: Lather. Rinse. Repeat.*
     
