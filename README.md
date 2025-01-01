@@ -3,6 +3,6 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Hey, wanna hear a joke?**
-*Parsing HTML with regex.*
+**Why did the database administrator leave his wife?**
+*She had one-to-many relationships.*
     
