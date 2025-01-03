@@ -3,6 +3,6 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Hey baby I wish your name was asynchronous...**
-*... so you'd give me a callback.*
+**Why do Java programmers hate communism?**
+*They don't want to live in a classless society.*
     
