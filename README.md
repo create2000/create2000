@@ -3,6 +3,6 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why do Java programmers hate communism?**
-*They don't want to live in a classless society.*
+**why do python programmers wear glasses?**
+*Because they can't C.*
     
