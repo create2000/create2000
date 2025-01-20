@@ -1,6 +1,8 @@
 
-## Daily Dev Joke
+# Daily Dev Joke
 
-**Programming is like sex.**
-*Make one mistake and you end up supporting it for the rest of your life.*
+- Fetches a joke from an API everyday and edits this README
+
+**What is the most used language in programming?**
+*Profanity.*
     
