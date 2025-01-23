@@ -3,6 +3,6 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why did the web developer walk out of a resturant in disgust?**
-*The seating was laid out in tables.*
+**How many programmers does it take to screw in a light bulb?**
+*None. It's a hardware problem.*
     
