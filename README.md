@@ -3,6 +3,6 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why did the functional programmer get thrown out of school?**
-*Because he refused to take classes.*
+**What are bits?**
+*Tiny things left when you drop your computer down the stairs.*
     
