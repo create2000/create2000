@@ -3,6 +3,6 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why was the JavaScript developer sad?**
-*Because they didn't Node how to Express themself!*
+**Why do programmers confuse Halloween and Christmas?**
+*Because Oct 31 = Dec 25*
     
