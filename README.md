@@ -3,6 +3,6 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What do you call a group of 8 Hobbits?**
-*A Hobbyte.*
+**How many programmers does it take to screw in a light bulb?**
+*None. It's a hardware problem.*
     
