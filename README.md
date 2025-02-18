@@ -1,7 +1,5 @@
 
-# Daily Dev Joke
-
-- Fetches a joke from an API everyday and edits this README
+## Daily Dev Humour 
 
 **Why do programmers wear glasses?**
 *Because they need to C#*
