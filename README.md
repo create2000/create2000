@@ -1,6 +1,8 @@
 
-## Daily Dev Humour 
+# Daily Dev Joke
 
-**Why do programmers wear glasses?**
-*Because they need to C#*
+- Fetches a joke from an API everyday and edits this README
+
+**Why are modern programming languages so materialistic?**
+*Because they are object-oriented.*
     
