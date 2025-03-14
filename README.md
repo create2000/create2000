@@ -3,6 +3,6 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why do they call it hyper terminal?**
-*Too much Java.*
+**Why did the Python data scientist get arrested at customs?**
+*She was caught trying to import pandas!*
     
