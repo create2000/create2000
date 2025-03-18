@@ -3,6 +3,6 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What is the most used language in programming?**
-*Profanity.*
+**How do you know God is a shitty programmer?**
+*He wrote the OS for an entire universe, but didn't leave a single useful comment.*
     
