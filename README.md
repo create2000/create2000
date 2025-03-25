@@ -3,6 +3,6 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Programming is like sex.**
-*Make one mistake and you end up supporting it for the rest of your life.*
+**How can you tell an extroverted programmer?**
+*He looks at YOUR shoes when he's talking.*
     
