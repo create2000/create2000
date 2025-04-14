@@ -3,6 +3,6 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why did the database administrator leave his wife?**
-*She had one-to-many relationships.*
+**Hey baby I wish your name was asynchronous...**
+*... so you'd give me a callback.*
     
