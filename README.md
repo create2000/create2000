@@ -3,6 +3,6 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**How do you know God is a shitty programmer?**
-*He wrote the OS for an entire universe, but didn't leave a single useful comment.*
+**Why is 6 afraid of 7 in hexadecimal Canada?**
+*Because 7 8 9 A?*
     
