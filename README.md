@@ -3,6 +3,6 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What are bits?**
-*Tiny things left when you drop your computer down the stairs.*
+**How do you know God is a shitty programmer?**
+*He wrote the OS for an entire universe, but didn't leave a single useful comment.*
     
