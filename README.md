@@ -3,6 +3,6 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why did the Python data scientist get arrested at customs?**
-*She was caught trying to import pandas!*
+**How do you know God is a shitty programmer?**
+*He wrote the OS for an entire universe, but didn't leave a single useful comment.*
     
