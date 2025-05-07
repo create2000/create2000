@@ -3,6 +3,6 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Programming is like sex.**
-*Make one mistake and you end up supporting it for the rest of your life.*
+**What do you call a group of 8 Hobbits?**
+*A Hobbyte.*
     
