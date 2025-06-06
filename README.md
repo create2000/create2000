@@ -3,6 +3,6 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why do programmers prefer using the dark mode?**
-*Because light attracts bugs.*
+**Why do programmers confuse Halloween and Christmas?**
+*Because Oct 31 = Dec 25*
     
