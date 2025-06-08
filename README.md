@@ -3,6 +3,6 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why do programmers wear glasses?**
-*Because they need to C#*
+**How do you know God is a shitty programmer?**
+*He wrote the OS for an entire universe, but didn't leave a single useful comment.*
     
