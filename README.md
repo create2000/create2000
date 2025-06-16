@@ -3,6 +3,6 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**How many programmers does it take to screw in a light bulb?**
-*None. It's a hardware problem.*
+**How can you tell an extroverted programmer?**
+*He looks at YOUR shoes when he's talking.*
     
