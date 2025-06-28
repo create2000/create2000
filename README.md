@@ -3,6 +3,6 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What is a dying programmer's last program?**
-*Goodbye, world!*
+**Why did the database administrator leave his wife?**
+*She had one-to-many relationships.*
     
