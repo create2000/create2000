@@ -3,6 +3,6 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why did the database administrator leave his wife?**
-*She had one-to-many relationships.*
+**Why do programmers confuse Halloween and Christmas?**
+*Because Oct 31 = Dec 25*
     
