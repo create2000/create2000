@@ -3,6 +3,6 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why did the Python programmer not respond to the foreign mails he got?**
-*Because his interpreter was busy collecting garbage.*
+**Hey baby I wish your name was asynchronous...**
+*... so you'd give me a callback.*
     
