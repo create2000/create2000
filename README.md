@@ -3,6 +3,6 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why did the programmer jump on the table?**
-*Because debug was on his screen.*
+**What do you call a group of 8 Hobbits?**
+*A Hobbyte.*
     
