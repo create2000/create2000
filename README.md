@@ -3,6 +3,6 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**What is the most used language in programming?**
-*Profanity.*
+**Why did the programmer jump on the table?**
+*Because debug was on his screen.*
     
