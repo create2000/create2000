@@ -3,6 +3,6 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Hey, wanna hear a joke?**
-*Parsing HTML with regex.*
+**What do you call a group of 8 Hobbits?**
+*A Hobbyte.*
     
