@@ -3,6 +3,6 @@
 
 - Fetches a joke from an API everyday and edits this README
 
-**Why did the programmer quit his job?**
-*Because he didn't get arrays.*
+**Why is 6 afraid of 7 in hexadecimal Canada?**
+*Because 7 8 9 A?*
     
