@@ -2,7 +2,7 @@
 
 - 🎓 I'm currently working on a private school management application and a POS software
 - 👥 I'm looking to collaborate on impact-driven projects
-- 📧 Reach me at: [johnleonarduc@gmail.com](mailto:johnleonarduc@gmail.com)
+- 📧 Reach me at: [your-email@gmail.com](mailto:your-email@gmail.com)
 
 ## My Tools
 
@@ -17,7 +17,7 @@
 
 ### Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnleonarduc&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&title_color=58a6ff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=create2000&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&title_color=58a6ff)
 
 ### Databases
 
@@ -69,26 +69,26 @@
 
 ## Some Project Samples
 
-- [Samtevas.com (Coming Soon Page)](https://github.com/johnleonarduc/project-link) | React | UI | (Private Repo) - 2023
-- [Acvep Website (Frontend)](https://github.com/johnleonarduc/project-link) | Angular | UI (Private) | (Private Repo) - 2023
-- [Cypress Frontend Interview Practical Task(Frontend)](https://github.com/johnleonarduc/project-link) | Angular, TypeScript, Netlify | UI | Public Repo - 2023
-- [Trivia Game (Full Stack -practice)](https://github.com/johnleonarduc/project-link) | React, Python, Flask, SQLAlchemy, PostgreSQL, REST API | No UI | Public Repo [Frontend](https://github.com/johnleonarduc/frontend-link), [Backend](https://github.com/johnleonarduc/backend-link) - 2022
-- [Fyyur (Full Stack -practice)](https://github.com/johnleonarduc/project-link) | Python-Flask, PostgreSQL (Server Rendered) | No UI | Public Repo - 2022
-- [Portfolio (Frontend - Practice)](https://github.com/johnleonarduc/project-link) | HTML, CSS, JavaScript | No UI | Public Repo - 2019
-- [Memory Game (Frontend -practice)](https://github.com/johnleonarduc/project-link) | HTML, CSS, Javascript | No UI | Public Repo - 2018
-- [Pixel Art Maker (Frontend -practice)](https://github.com/johnleonarduc/project-link) | HTML, CSS, JQuery | No UI | Public Repo - 2018
+- [Samtevas.com (Coming Soon Page)](https://github.com/create2000/project-link) | React | UI | (Private Repo) - 2023
+- [Acvep Website (Frontend)](https://github.com/create2000/project-link) | Angular | UI (Private) | (Private Repo) - 2023
+- [Cypress Frontend Interview Practical Task(Frontend)](https://github.com/create2000/project-link) | Angular, TypeScript, Netlify | UI | Public Repo - 2023
+- [Trivia Game (Full Stack -practice)](https://github.com/create2000/project-link) | React, Python, Flask, SQLAlchemy, PostgreSQL, REST API | No UI | Public Repo [Frontend](https://github.com/create2000/frontend-link), [Backend](https://github.com/create2000/backend-link) - 2022
+- [Fyyur (Full Stack -practice)](https://github.com/create2000/project-link) | Python-Flask, PostgreSQL (Server Rendered) | No UI | Public Repo - 2022
+- [Portfolio (Frontend - Practice)](https://github.com/create2000/project-link) | HTML, CSS, JavaScript | No UI | Public Repo - 2019
+- [Memory Game (Frontend -practice)](https://github.com/create2000/project-link) | HTML, CSS, Javascript | No UI | Public Repo - 2018
+- [Pixel Art Maker (Frontend -practice)](https://github.com/create2000/project-link) | HTML, CSS, JQuery | No UI | Public Repo - 2018
 
 ---
 
 ## GitHub Stats
 
-![Chinaemerem's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnleonarduc&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff)
+![Onah Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=create2000&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff)
 
 ---
 
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnleonardu)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnleonarduc@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=johnleonarduc&color=blueviolet&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=create2000&color=blueviolet&style=flat-square)
