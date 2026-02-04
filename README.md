@@ -14,7 +14,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-
 ### Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=create2000&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&text_color=c9d1d9&title_color=58a6ff)
@@ -30,7 +29,7 @@
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NextJS]()
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
@@ -41,7 +40,6 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
 ### Deployment tools
 
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
@@ -49,7 +47,7 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vercel]
+![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### Favourite E-Learning Portals
 
@@ -61,9 +59,10 @@
 
 ## Some Project Samples
 
-- [Samtevas.com (Coming Soon Page)](https://github.com/create2000/project-link) | React | UI | (Private Repo) - 2023
-- [Acvep Website (Frontend)](https://github.com/create2000/project-link) | Angular | UI (Private) | (Private Repo) - 2023
-- [Cypress Frontend Interview Practical Task(Frontend)](https://github.com/create2000/project-link) | Angular, TypeScript, Netlify | UI | Public Repo - 2023
+- [choojobs.com (Coming Soon Page)](https://github.com/create2000/) | NextJS | NodeJS | UI | (Private Repo) - 2026
+- [Daily Nuggets (Frontend)](https://github.com/create2000/project-link) | Angular | UI (Private) | (Private Repo) - 2023
+- [Daily Nuggets (Backend)](https://github.com/create2000/project-link) | Angular | UI (Private) | (Private Repo) - 2023
+- [Babcecil International (Frontend)](https://github.com/create2000/project-link) | Angular, TypeScript, Netlify | UI | Public Repo - 2023
 - [Trivia Game (Full Stack -practice)](https://github.com/create2000/project-link) | React, Python, Flask, SQLAlchemy, PostgreSQL, REST API | No UI | Public Repo [Frontend](https://github.com/create2000/frontend-link), [Backend](https://github.com/create2000/backend-link) - 2022
 - [Fyyur (Full Stack -practice)](https://github.com/create2000/project-link) | Python-Flask, PostgreSQL (Server Rendered) | No UI | Public Repo - 2022
 - [Portfolio (Frontend - Practice)](https://github.com/create2000/project-link) | HTML, CSS, JavaScript | No UI | Public Repo - 2019
