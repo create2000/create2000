@@ -2,7 +2,7 @@
 
 - 🎓 I'm currently working on a job marketplace by scraping multiple job sites using playwright
 - 👥 I'm looking to collaborate on impact-driven projects
-- 📧 Reach me at: [your-email@gmail.com](mailto:onah582@gmail.com)
+- 📧 Reach me at: [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onah582@gmail.com)
 
 ## My Tools
 
