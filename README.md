@@ -61,12 +61,12 @@
 
 - [choojobs.com (Coming Soon Page)](https://github.com/create2000/Job-scraper) | NodeJS | Postgres | (Private Repo) - 2026
 - [choojobs.com (Coming Soon Page - Frontend)](https://github.com/create2000/Job-scraper-frontend) | NextJS | Typescript | Tailwind | (Private Repo) - 2026
-- [Daily Nuggets (Frontend)](https://github.com/dailynuggets/website-frontend) | Angular | UI (Private) | (Private Repo) - 2025
+- [Daily Nuggets (Frontend)](https://github.com/dailynuggets/website-frontend) | NextJS | Chakra UI (Private) | (Private Repo) - 2025
 - [Daily Nuggets (Backend)](https://github.com/dailynuggets/dailynuggets-backend) | NestJS | UI (Private) | (Private Repo) - 2025
 - [Babcecil International (Frontend)](https://github.com/create2000/Babcecil-frontend) | NextJS, TypeScript, Netlify | UI | Private Repo - 2025
 - [Babcecil International (Backend)](https://github.com/create2000/Babcecil-backend) | Python, Django, Postgres, Netlify | UI | Private Repo - 2025
 - [Orebis E-Commerce (Full Stack)](https://github.com/create2000/rebiShopping) | React, PostgreSQL, REST API | Public Repo [Fullstack](https://github.com/create2000/orebiShopping)
-- [Elegant Hotel (PHP - Practice)](https://github.com/create2000/Hotelier) | PHP, Apache | Public Repo - 2024
+- [Elegant Hotel (PHP - Practice)](https://github.com/create2000/PHP-TOTS) | PHP, Apache | Public Repo - 2024
 - [Portfolio (Frontend - Practice)](https://github.com/create2000/project-portfolio) | HTML, CSS, JavaScript | Public Repo - 2024
 
 ---
