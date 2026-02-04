@@ -59,15 +59,15 @@
 
 ## Some Project Samples
 
-- [choojobs.com (Coming Soon Page)](https://github.com/create2000/) | NextJS | NodeJS | UI | (Private Repo) - 2026
-- [Daily Nuggets (Frontend)](https://github.com/create2000/project-link) | Angular | UI (Private) | (Private Repo) - 2023
-- [Daily Nuggets (Backend)](https://github.com/create2000/project-link) | Angular | UI (Private) | (Private Repo) - 2023
-- [Babcecil International (Frontend)](https://github.com/create2000/project-link) | Angular, TypeScript, Netlify | UI | Public Repo - 2023
-- [Trivia Game (Full Stack -practice)](https://github.com/create2000/project-link) | React, Python, Flask, SQLAlchemy, PostgreSQL, REST API | No UI | Public Repo [Frontend](https://github.com/create2000/frontend-link), [Backend](https://github.com/create2000/backend-link) - 2022
-- [Fyyur (Full Stack -practice)](https://github.com/create2000/project-link) | Python-Flask, PostgreSQL (Server Rendered) | No UI | Public Repo - 2022
-- [Portfolio (Frontend - Practice)](https://github.com/create2000/project-link) | HTML, CSS, JavaScript | No UI | Public Repo - 2019
-- [Memory Game (Frontend -practice)](https://github.com/create2000/project-link) | HTML, CSS, Javascript | No UI | Public Repo - 2018
-- [Pixel Art Maker (Frontend -practice)](https://github.com/create2000/project-link) | HTML, CSS, JQuery | No UI | Public Repo - 2018
+- [choojobs.com (Coming Soon Page)](https://github.com/create2000/Job-scraper) | NodeJS | Postgres | (Private Repo) - 2026
+- [choojobs.com (Coming Soon Page - Frontend)](https://github.com/create2000/Job-scraper-frontend) | NextJS | Typescript | Tailwind | (Private Repo) - 2026
+- [Daily Nuggets (Frontend)](https://github.com/dailynuggets/website-frontend) | Angular | UI (Private) | (Private Repo) - 2025
+- [Daily Nuggets (Backend)](https://github.com/dailynuggets/dailynuggets-backend) | NestJS | UI (Private) | (Private Repo) - 2025
+- [Babcecil International (Frontend)](https://github.com/create2000/Babcecil-frontend) | NextJS, TypeScript, Netlify | UI | Private Repo - 2025
+- [Babcecil International (Backend)](https://github.com/create2000/Babcecil-backend) | Python, Django, Postgres, Netlify | UI | Private Repo - 2025
+- [Orebis E-Commerce (Full Stack)](https://github.com/create2000/rebiShopping) | React, PostgreSQL, REST API | Public Repo [Fullstack](https://github.com/create2000/orebiShopping)
+- [Elegant Hotel (PHP - Practice)](https://github.com/create2000/Hotelier) | PHP, Apache | Public Repo - 2024
+- [Portfolio (Frontend - Practice)](https://github.com/create2000/project-portfolio) | HTML, CSS, JavaScript | Public Repo - 2024
 
 ---
 
