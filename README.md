@@ -1,6 +1,6 @@
 # Hi there 👋 Welcome to my Repository.
 
-- 🎓 I'm currently working on a job marketplace by scraping multiple job sites using playwright
+- 🎓 I'm currently working on a job marketplace by scraping multiple job sites using playwright and puppeteer
 - 👥 I'm looking to collaborate on impact-driven projects
 - 📧 Reach me at: [onah582@gmail.com](mailto:onah582@gmail.com)
 
@@ -59,8 +59,8 @@
 
 ## Some Project Samples
 
-- [choojobs.com (Coming Soon Page)](https://github.com/create2000/Job-scraper) | NodeJS | Postgres | (Private Repo) - 2026
-- [choojobs.com (Coming Soon Page - Frontend)](https://github.com/create2000/Job-scraper-frontend) | NextJS | Typescript | Tailwind | (Private Repo) - 2026
+- [quintly.com (Coming Soon Page)](https://github.com/create2000/Job-scraper) | NodeJS | Postgres | (Private Repo) - 2026
+- [quintly.com (Coming Soon Page - Frontend)](https://github.com/create2000/Job-scraper-frontend) | NextJS | Typescript | Tailwind | (Private Repo) - 2026
 - [Daily Nuggets (Frontend)](https://github.com/dailynuggets/website-frontend) | NextJS | Chakra UI (Private) | (Private Repo) - 2025
 - [Daily Nuggets (Backend)](https://github.com/dailynuggets/dailynuggets-backend) | NestJS | UI (Private) | (Private Repo) - 2025
 - [Babcecil International (Frontend)](https://github.com/create2000/Babcecil-frontend) | NextJS, TypeScript, Netlify | UI | Private Repo - 2025
